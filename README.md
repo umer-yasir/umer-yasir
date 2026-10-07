@@ -31,10 +31,12 @@
 
 | Domain | Architecture & Technologies |
 |---|---|
-| **Enterprise Platforms** | Scalable business workflows, dashboards, audit logging, and high-reliability systems |
-| **Backend & Microservices** | Java, Spring Boot, REST APIs, JWT authentication, RBAC, JPA/Hibernate |
-| **Full Stack Web Apps** | Next.js, React, Node.js, Tailwind CSS with modular clean architecture |
-| **Cloud & Infrastructure** | AWS, Docker containerization, Nginx reverse proxy, PM2 process management |
+| **Enterprise Platforms** | Business workflows, dashboards, audits, reporting and operational systems |
+| **Backend Engineering** | Spring Boot services, REST APIs, authentication, RBAC and data access |
+| **Full Stack Products** | React / Next.js interfaces backed by scalable APIs |
+| **Healthcare Systems** | Healthcare integrations, eligibility/RCM workflows and data exchange |
+| **Cloud & Deployment** | AWS, Docker, Nginx, PM2 and production deployment workflows |
+
 
 <p align="center">
   <img src="assets/connect.svg?v=1" alt="Connect with Umer Yasir" width="100%">
@@ -45,14 +47,14 @@
   <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution City" width="100%">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=umer-yasir&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=070b16&title_color=247bff&icon_color=ff354f&text_color=94a3b8" height="250" alt="Umer's GitHub Stats"    />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umer-yasir&layout=compact&theme=tokyonight&hide_border=true&bg_color=070b16&title_color=247bff&text_color=94a3b8&langs_count=8" height="400" alt="Most Used Languages"  />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=umer-yasir&theme=tokyonight&hide_border=true&background=070b16&ring=247bff&fire=ff354f&currStreakLabel=247bff&sideLabels=94a3b8&dates=64748b" width="75%" alt="GitHub Streak Stats" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/umer-yasir"><b>GitHub</b></a> •
