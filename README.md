@@ -45,7 +45,11 @@
   <a href="https://www.linkedin.com/in/umeryasir/"><b>LinkedIn</b></a> •
   <a href="https://umeryasir.netlify.app/"><b>Live Portfolio</b></a>
 </p>
-
+## 🏙️ GitHub 3D Contribution City
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution City" width="100%">
+</p>
+---
 <!-- ================= LIVE METRICS & CHARTS ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=070b16&height=40&text=LIVE%20ENGINEERING%20ANALYTICS%20%26%20METRICS&fontSize=16&fontColor=247bff&fontAlignY=55&descAlignY=70" width="100%" />
