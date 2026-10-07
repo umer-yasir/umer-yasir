@@ -40,48 +40,24 @@
   <img src="assets/connect.svg?v=1" alt="Connect with Umer Yasir" width="100%">
 </p>
 
-<p align="center">
-  <a href="https://github.com/umer-yasir"><b>GitHub</b></a> •
-  <a href="https://www.linkedin.com/in/umeryasir/"><b>LinkedIn</b></a> •
-  <a href="https://umeryasir.netlify.app/"><b>Live Portfolio</b></a>
-</p>
 ## 🏙️ GitHub 3D Contribution City
 <p align="center">
   <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution City" width="100%">
 </p>
----
-<!-- ================= LIVE METRICS & CHARTS ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=070b16&height=40&text=LIVE%20ENGINEERING%20ANALYTICS%20%26%20METRICS&fontSize=16&fontColor=247bff&fontAlignY=55&descAlignY=70" width="100%" />
-</p>
-
-<!-- ROW 1: OVERALL GITHUB STATS & TOP LANGUAGES -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umer-yasir&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=070b16&title_color=247bff&icon_color=ff354f&text_color=94a3b8" height="175" alt="Umer's GitHub Stats (Commits, PRs, Stars)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umer-yasir&layout=compact&theme=tokyonight&hide_border=true&bg_color=070b16&title_color=247bff&text_color=94a3b8" height="175" alt="Most Used Languages" />
-</p>
-
-<!-- ROW 2: CONTRIBUTION STREAKS -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umer-yasir&theme=tokyonight&hide_border=true&background=070b16&ring=247bff&fire=ff354f&currStreakLabel=247bff&sideLabels=94a3b8&dates=64748b" width="95%" alt="GitHub Streak Stats" />
-</p>
-
-<!-- ROW 3: INTERACTIVE COMMIT ACTIVITY GRAPH WAVE -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umer-yasir&bg_color=070b16&color=247bff&line=247bff&point=ff354f&area=true&hide_border=true&area_color=0d1424" width="95%" alt="Contribution Wave Graph" />
-</p>
-
----
-
-## 📊 Live GitHub Analytics (Public & Private)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umer-yasir&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=070b16&title_color=247bff&icon_color=ff354f&text_color=94a3b8" height="175" alt="Umer's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umer-yasir&layout=compact&theme=tokyonight&hide_border=true&bg_color=070b16&title_color=247bff&text_color=94a3b8&langs_count=8" height="175" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umer-yasir&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=070b16&title_color=247bff&icon_color=ff354f&text_color=94a3b8" height="250" alt="Umer's GitHub Stats"    />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umer-yasir&layout=compact&theme=tokyonight&hide_border=true&bg_color=070b16&title_color=247bff&text_color=94a3b8&langs_count=8" height="400" alt="Most Used Languages"  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umer-yasir&theme=tokyonight&hide_border=true&background=070b16&ring=247bff&fire=ff354f&currStreakLabel=247bff&sideLabels=94a3b8&dates=64748b" width="95%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umer-yasir&theme=tokyonight&hide_border=true&background=070b16&ring=247bff&fire=ff354f&currStreakLabel=247bff&sideLabels=94a3b8&dates=64748b" width="75%" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/umer-yasir"><b>GitHub</b></a> •
+  <a href="https://www.linkedin.com/in/umeryasir/"><b>LinkedIn</b></a> •
+  <a href="https://umeryasir.netlify.app/"><b>Live Portfolio</b></a>
 </p>
 
 ---
